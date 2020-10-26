@@ -5,7 +5,7 @@ const port = 3001
 const winston = require('./utils/loger')
 
 app.get('/', (req, res) => {
-  res.send('Hello World!')
+  res.send('Hello Word!')
 
 })
 
